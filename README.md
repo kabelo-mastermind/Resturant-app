@@ -1,17 +1,17 @@
 # Resturant-app
-##Instructions to setup
-#create frontend project
-#visit vite website
-##create the react project
+## Instructions to setup
+# create frontend project
+# visit vite website
+## create the react project
 	->npm create vite@latest my-vue-app -- --template react
-##install react router dom
-##visit reactrouter.com
+## install react router dom
+## visit reactrouter.com
 	->npm install react-router-dom
-##install axios
-##visit axios-http.com
+## install axios
+## visit axios-http.com
 	->npm install axios
-##install tailwindcss
-##visit tailwindcss.com
+## install tailwindcss
+## visit tailwindcss.com
 	->npm install -D tailwindcss postcss autoprefixer
 	->npx tailwindcss init -p
 	//copy this content lines to tailwind.config file
