@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 ## install node modules first using the command
 ### for both frontend and server
 npm install
+## Database
+import the mysql database in xampp database management software
