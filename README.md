@@ -2,9 +2,9 @@
 # Instructions to Run the project
 ## For frontend folder
 	npm install
- ## For server folder
+## For server folder
 	npm install
-
+### import restaurant.sql file to xampp 
 
 # Instructions to create frontend project
 ## Required for all
