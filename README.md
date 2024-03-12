@@ -1,4 +1,11 @@
 # Resturant-app
+# Instructions to Run the project
+## For frontend folder
+	npm install
+ ## For server folder
+	npm install
+
+
 # Instructions to create frontend project
 ## Required for all
 ### install npm node modules in any folder before executing because all folders don't have node modules pakages folder
